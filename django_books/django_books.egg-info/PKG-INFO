@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: django-books
+Version: 0.0.1
+Summary: A Django reusable app for managing books.
+Home-page: http://github.com/saebyn/django-books/
+Author: John Weaver
+Author-email: john@pledge4code.com
+License: BSD
+Description: A reusable Django app for managing books.
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Framework :: Django

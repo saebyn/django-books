@@ -1,2 +1,3 @@
 *.pyc
 *~
+django_books.egg-info

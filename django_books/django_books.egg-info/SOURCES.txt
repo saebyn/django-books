@@ -1,0 +1,4 @@
+books/django_books.egg-info/PKG-INFO
+books/django_books.egg-info/SOURCES.txt
+books/django_books.egg-info/dependency_links.txt
+books/django_books.egg-info/top_level.txt
