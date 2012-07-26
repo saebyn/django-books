@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name = 'django-books',
       version = '0.0.1',
       author = 'John Weaver',
-      author_email = 'john@pledge4code.com',
+      author_email = 'john@saebyn.info',
       description = 'A Django reusable app for managing books.',
       long_description = open('README.rst').read(),
       url = 'http://github.com/saebyn/django-books/',
